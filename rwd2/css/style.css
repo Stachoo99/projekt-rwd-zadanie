@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    font-family: "verdana", sans-serif;
+    box-sizing: border-box;
+}
+    
+.photo1 h1 {
+    color: #FFF;
+    top: 0;
+    left: 0;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 33%;
+    font-size: 4vh; 
+}
+
+.photo1 #span1 {
+    font-size: 6vh; 
+}
+
+
+.photo2 h1 {
+    color: #FFF;
+    top: 0;
+    right: 0;
+    position: absolute;
+}
